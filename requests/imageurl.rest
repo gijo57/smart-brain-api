@@ -1,0 +1,6 @@
+POST http://localhost:3000/imageurl
+Content-Type: application/json
+
+{
+    "input": "https://external-preview.redd.it/tuQE32VwoPDqp0BmHzXT2WR-H5JP0N7F092ghMjNZWo.jpg?auto=webp&s=cf49cd5047046c12e9c87c573eb1ccff85287f88"
+}
