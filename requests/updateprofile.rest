@@ -1,0 +1,10 @@
+POST http://localhost:3000/profile/2
+Content-Type: application/json
+
+{
+    "formInput": {
+        "name": "Ganga57",
+        "age": "28",
+        "pet": "dragon"
+    }
+}
